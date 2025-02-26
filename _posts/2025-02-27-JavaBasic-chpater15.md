@@ -344,7 +344,7 @@ CharArrayWriter | 메모리(byte배열) |
         | String getEncodig() | OutputStreamWriter 의 인코딩 반환 |
 
 - 표준 입출력
-    - [System.in](http://System.in) - 콘솔로부터 데이터를 입력받는데 사용
+    - System.in - 콘솔로부터 데이터를 입력받는데 사용
     - System.out - 콘솔로부터 데이터를 출력하는데 사용
     - System.err - 콘솔로부터 데이터를 출력하는데 사용
     - System 클래스의 static 변수 / 입출력 스트림

@@ -3,7 +3,7 @@ title: The Talent Code
 description: 재능이란?
 author: laze
 date: 2025-02-27 18:00:00 +0900
-categories: [Self-Devlopment, Learning]
+categories: [SelfDevlopment, Learning]
 tags: [Learning]
 ---
 # The Talent Code

@@ -1,5 +1,5 @@
 ---
-title: 프론트엔드 개발 흐름과 Vue
+title: Vue 프로그래밍의 기본
 description: Vue?
 author: laze
 date: 2025-03-17 13:00:00 +0900

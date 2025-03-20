@@ -3,7 +3,7 @@ title: 프론트엔드 개발 흐름과 Vue
 description: Vue
 author: laze
 date: 2025-03-17 12:00:00 +0900
-categories: [Dev, Vue]
+categories: [Dev]
 tags: [Vue]
 ---
 # 1장 프론트엔드 개발 흐름과 Vue

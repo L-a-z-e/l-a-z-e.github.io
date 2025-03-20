@@ -3,7 +3,7 @@ title: Vue 프로그래밍의 기본
 description: Vue?
 author: laze
 date: 2025-03-17 13:00:00 +0900
-categories: [Dev, Vue]
+categories: [Dev]
 tags: [Vue]
 ---
 # 3장 Vue 프로그래밍의 기본

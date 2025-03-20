@@ -3,7 +3,7 @@ title: 자바의 정석 Chapter 4
 description: 모르는 내용 위주 학습 기록
 author: laze
 date: 2025-02-27 00:06:00 +0900
-categories: [Dev, Java]
+categories: [Dev]
 tags: [Java]
 ---
 # Chapter04

@@ -3,7 +3,7 @@ title: Vite와 Vue 프로젝트
 description: Vue
 author: laze
 date: 2025-03-17 13:00:00 +0900
-categories: [Dev, Vue]
+categories: [Dev]
 tags: [Vue]
 ---
 # 2장 Vite와 Vue 프로젝트

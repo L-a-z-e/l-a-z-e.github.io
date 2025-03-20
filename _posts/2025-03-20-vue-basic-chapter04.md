@@ -2,8 +2,8 @@
 title: 데이터와 이벤트 디렉티브
 description: Vue?
 author: laze
-date: 2025-03-20 13:00:00 +1300
-categories: [Dev]
+date: 2025-03-20 00:00:01 +0900
+categories: [Dev, Vue]
 tags: [Vue]
 ---
 # 4장 데이터와 이벤트 디렉티브

@@ -2,8 +2,8 @@
 title: 자바의 정석 Chapter 6
 description: 모르는 내용 위주 학습 기록
 author: laze
-date: 2025-02-27 00:06:00 +0900
-categories: [Dev]
+date: 2025-02-27 00:00:05 +0900
+categories: [Dev, Java]
 tags: [Java]
 ---
 # Chapter 06

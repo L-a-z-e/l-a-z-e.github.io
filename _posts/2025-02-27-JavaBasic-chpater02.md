@@ -2,8 +2,8 @@
 title: 자바의 정석 Chapter 2
 description: 모르는 내용 위주 학습 기록
 author: laze
-date: 2025-02-27 00:01:00 +0900
-categories: [Dev]
+date: 2025-02-27 00:00:01 +0900
+categories: [Dev, Java]
 tags: [Java]
 ---
 # Chapter02

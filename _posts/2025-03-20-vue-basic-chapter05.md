@@ -2,8 +2,8 @@
 title: 양방향 데이터 바인딩
 description: Vue?
 author: laze
-date: 2025-03-20 13:00:00 +1300
-categories: [Dev]
+date: 2025-03-20 00:00:02 +0900
+categories: [Dev, Vue]
 tags: [Vue]
 ---
 # 5장 양방향 데이터 바인딩

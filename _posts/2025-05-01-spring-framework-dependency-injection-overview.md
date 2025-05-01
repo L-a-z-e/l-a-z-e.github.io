@@ -2,7 +2,7 @@
 title: Spring Framework Dependency Injection
 description: 
 author: laze
-date: 2025-05-01 00:00:01 +0900
+date: 2025-05-01 00:00:03 +0900
 categories: [Dev, SpringBoot]
 tags: [SpringBoot]
 ---
@@ -585,7 +585,7 @@ xml
 
 ```
 
-이렇게 하면 스프링은 `ExoticType` 속성을 설정할 때 `ExoticTypeEditor`를 사용하여 문자열을 객체로 변환합니다.[Medium](https://medium.com/%40ivan.tsupa111/enhancing-spring-applications-with-custom-property-editors-8a0af98a5f93?utm_source=chatgpt.com)
+이렇게 하면 스프링은 `ExoticType` 속성을 설정할 때 `ExoticTypeEditor`를 사용하여 문자열을 객체로 변환합니다.
 
 ---
 

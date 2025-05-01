@@ -2,7 +2,7 @@
 title: Spring Framework Bean
 description: 
 author: laze
-date: 2025-05-01 00:00:01 +0900
+date: 2025-05-01 00:00:02 +0900
 categories: [Dev, SpringBoot]
 tags: [SpringBoot]
 ---

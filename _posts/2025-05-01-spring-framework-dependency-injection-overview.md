@@ -528,8 +528,6 @@ Spring Framework에서 `PropertyEditor`는 문자열(String) 기반의 설정 �
 스프링에서는 XML 설정 파일이나 애플리케이션 속성 파일에서 빈의 속성을 문자열로 지정하는 경우가 많습니다. 예를 들어:
 
 ```xml
-xml
-복사편집
 <bean id="exampleBean" class="com.example.ExampleBean">
     <property name="someProperty" value="2025-05-01"/>
 </bean>
@@ -558,8 +556,6 @@ xml
 특정한 변환 로직이 필요한 경우, 사용자 정의 `PropertyEditor`를 구현할 수 있습니다. 예를 들어, `ExoticType`이라는 사용자 정의 타입을 처리하려면:
 
 ```java
-java
-복사편집
 public class ExoticTypeEditor extends PropertyEditorSupport {
     @Override
     public void setAsText(String text) throws IllegalArgumentException {
@@ -573,8 +569,6 @@ public class ExoticTypeEditor extends PropertyEditorSupport {
 그리고 이를 스프링 설정에 등록합니다:
 
 ```xml
-xml
-복사편집
 <bean class="org.springframework.beans.factory.config.CustomEditorConfigurer">
     <property name="customEditors">
         <map>

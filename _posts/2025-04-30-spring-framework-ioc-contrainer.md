@@ -20,18 +20,18 @@ tags: [SpringBoot]
 
 근본적으로 반대(역전, 그래서 제어의 역전이라는 이름이 붙음)입니다.
 
-org.springframework.beans와 org.springframework.context 패키지는 스프링 프레임워크의 IoC 컨테이너의 기반입니다. 
+org.springframework.beans와 org.springframework.context 패키지는 스프링 프레임워크의 IoC 컨테이너의 기반입니다. 
 
-BeanFactory 인터페이스는 모든 유형의 객체를 관리할 수 있는 고급 설정 메커니즘을 제공합니다. 
+BeanFactory 인터페이스는 모든 유형의 객체를 관리할 수 있는 고급 설정 메커니즘을 제공합니다. 
 
-ApplicationContext는 BeanFactory의 하위 인터페이스입니다. 이는 다음을 추가합니다:
+ApplicationContext는 BeanFactory의 하위 인터페이스입니다. 이는 다음을 추가합니다:
 
 - 스프링의 AOP 기능과의 더 쉬운 통합
 - 메시지 리소스 처리(국제화에 사용)
 - 이벤트 발행
-- 웹 애플리케이션에서 사용하기 위한 WebApplicationContext와 같은 애플리케이션 계층 특정 컨텍스트
+- 웹 애플리케이션에서 사용하기 위한 WebApplicationContext와 같은 애플리케이션 계층 특정 컨텍스트
 
-요약하자면, BeanFactory는 설정 프레임워크와 기본 기능을 제공하고, ApplicationContext는 더 많은 엔터프라이즈 관련 기능을 추가합니다. 
+요약하자면, BeanFactory는 설정 프레임워크와 기본 기능을 제공하고, ApplicationContext는 더 많은 엔터프라이즈 관련 기능을 추가합니다. 
 
 스프링에서, 애플리케이션의 중추를 형성하고 스프링 IoC 컨테이너에 의해 관리되는 객체들을 빈(beans)이라고 부릅니다.
 

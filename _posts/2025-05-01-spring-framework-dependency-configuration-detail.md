@@ -8,7 +8,7 @@ tags: [SpringBoot]
 ---
 # **Dependencies and Configuration in Detail**
 
-# **의존성 및 설정 상세 (Dependencies and Configuration in Detail)**
+## **의존성 및 설정 상세 (Dependencies and Configuration in Detail)**
 
 빈 속성 및 생성자 인수를 다른 관리되는 빈(협력자)에 대한 참조 또는 인라인으로 정의된 값으로 정의할 수 있습니다.
 

@@ -8,8 +8,6 @@ tags: [SpringBoot]
 ---
 # **Lazy-initialized Beans**
 
-# **Lazy-initialized Beans**
-
 기본적으로, `ApplicationContext` 구현체들은 초기화 프로세스의 일부로서 모든 싱글톤 빈을 즉시(eagerly) 생성하고 설정합니다.
 
 일반적으로 이러한 사전 인스턴스화(pre-instantiation)는 바람직한데, 설정이나 주변 환경의 오류가 몇 시간 또는 며칠 후가 아닌 즉시 발견되기 때문입니다.

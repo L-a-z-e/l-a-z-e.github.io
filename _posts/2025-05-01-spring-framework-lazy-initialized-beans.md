@@ -1,5 +1,5 @@
 ---
-title: Spring Framework Dependency Injection
+title: Spring Framework Lazy Initialized Beans
 description: 
 author: laze
 date: 2025-05-01 00:00:05 +0900

@@ -2,7 +2,7 @@
 title: Spring Framework Bean Definition Inheritance
 description: 
 author: laze
-date: 2025-05-02 00:00:02 +0900
+date: 2025-05-02 00:00:03 +0900
 categories: [Dev, SpringBoot]
 tags: [SpringBoot]
 ---

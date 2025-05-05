@@ -921,7 +921,7 @@ val ctx = FileSystemXmlApplicationContext("file:///conf/context.xml")
 
 ---
 
-**1. IO vs NIO ([java.io](http://java.io/) vs java.nio)**
+**1. IO vs NIO (java.io vs java.nio)**
 
 - **IO (Input/Output):**
   - `java.io` 패키지에 해당합니다.

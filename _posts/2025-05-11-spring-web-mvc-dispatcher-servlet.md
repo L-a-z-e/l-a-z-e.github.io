@@ -3,8 +3,8 @@ title: Spring Web MVC - Dispatcher Servlet
 description: 
 author: laze
 date: 2025-05-11 00:00:01 +0900
-categories: [Dev, SpringSecurity]
-tags: [SpringSecurity]
+categories: [Dev, SpringWebMVC]
+tags: [SpringWebMVC]
 ---
 **DispatcherServlet (디스패처 서블릿)**
 

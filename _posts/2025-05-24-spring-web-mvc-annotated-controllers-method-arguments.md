@@ -2,7 +2,7 @@
 title: Spring Web MVC - Annotated Controllers (Mapping Requests)
 description: 
 author: laze
-date: 2025-05-23 00:00:01 +0900
+date: 2025-05-24 00:00:01 +0900
 categories: [Dev, SpringWebMVC]
 tags: [SpringWebMVC]
 ---

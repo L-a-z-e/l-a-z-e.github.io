@@ -21,8 +21,7 @@ Spring Batch에서 XML 입력 및 출력이 어떻게 작동하는지 고려해�
 XML 처리에서는 토큰화해야 하는 레코드 라인(`FieldSet` 인스턴스) 대신, XML 리소스가 다음 이미지와 같이 개별 레코드에 해당하는 '프래그먼트(fragment)'의 컬렉션이라고 가정합니다:
 
 **XML 입력**
-
-[xml_item_reader_writer_1.png](assets/img/xml_item_reader_writer_1.png)
+![Desktop View](assets/img/xml_item_reader_writer_1.png){: width="972" height="589" }
 
 위 시나리오에서 'trade' 태그는 '루트 요소(root element)'로 정의됩니다.
 
@@ -40,7 +39,7 @@ OXM이 지원하는 기술과의 관계는 다음 이미지와 같습니다:
 
 **OXM 바인딩**
 
-[xml_item_reader_writer_2.png](assets/img/xml_item_reader_writer_2.png)
+![Desktop View](assets/img/xml_item_reader_writer_2.png){: width="972" height="589" }
 
 OXM과 XML 프래그먼트를 사용하여 레코드를 나타내는 방법에 대한 소개와 함께, 이제 리더와 라이터를 더 자세히 살펴볼 수 있습니다.
 

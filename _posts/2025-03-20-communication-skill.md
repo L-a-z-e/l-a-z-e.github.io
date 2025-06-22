@@ -3,7 +3,7 @@ title: 리더의 말습관
 description: Communication Skill
 author: laze
 date: 2025-03-20 00:00:06 +0900
-categories: [SelfDevlopment, Communication]
+categories: [SelfDevelopment, Communication]
 tags: [Communication]
 ---
 # 리더의 말습관

@@ -3,8 +3,8 @@ title: Spring Core - Review(1)
 description: 
 author: laze
 date: 2025-06-22 00:00:01 +0900
-categories: [Dev, SpringWebMVC]
-tags: [SpringWebMVC]
+categories: [Dev, SpringBoot]
+tags: [SpringBoot]
 ---
 ### **IoC, 스프링 IoC 컨테이너, 빈(Bean) 개념 정리**
 

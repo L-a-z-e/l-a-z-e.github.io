@@ -177,7 +177,7 @@ class MovieRecommender(
 ```
 
 SpEL은 또한 더 복잡한 데이터 구조 사용을 가능하게 합니다:
-
+{% raw %}
 ```java
 // Java
 @Component
@@ -191,7 +191,8 @@ public class MovieRecommender {
 	}
 }
 ```
-
+{% endraw %}
+{% raw %}
 ```kotlin
 // Kotlin
 @Component
@@ -201,7 +202,7 @@ class MovieRecommender(
     private val countOfMoviesPerCatalog: Map<String, Int>
 )
 ```
-
+{% endraw %}
 ---
 
 **전체 주제: `@Value` 사용하기**
@@ -335,12 +336,13 @@ class MovieRecommender(
     ```
 
 - **복잡한 데이터 구조 생성:** SpEL을 사용하여 리스트나 맵 같은 데이터 구조를 직접 만들어서 주입할 수도 있습니다.
-
+{% raw %}
     ```java
     // SpEL의 맵 리터럴 구문을 사용하여 Map 객체를 생성하고 주입
     @Value("#{{'Thriller': 100, 'Comedy': 300}}")
     private Map<String, Integer> countOfMoviesPerCatalog;
     ```
+{% endraw %}
 
 
 **요약:**

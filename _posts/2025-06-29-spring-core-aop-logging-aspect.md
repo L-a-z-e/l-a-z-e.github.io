@@ -2,7 +2,7 @@
 title: Spring Core - AOP (LoggingAspect)
 description: 
 author: laze
-date: 2025-06-29 00:00:02 +0900
+date: 2025-06-29 00:00:04 +0900
 categories: [Dev, SpringBoot]
 tags: [SpringBoot]
 ---

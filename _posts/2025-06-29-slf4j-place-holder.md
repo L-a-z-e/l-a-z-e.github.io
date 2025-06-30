@@ -2,7 +2,7 @@
 title: SLF4J PlaceHolder 장점
 description: 
 author: laze
-date: 2025-06-29 00:00:01 +0900
+date: 2025-06-29 00:00:02 +0900
 categories: [Dev, Java]
 tags: [Java]
 ---

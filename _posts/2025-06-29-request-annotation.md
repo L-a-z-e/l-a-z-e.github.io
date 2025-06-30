@@ -1,5 +1,5 @@
 ---
-title: @PathVariable, @RequestParam, @RequestPart, @Param
+title: '@PathVariable, @RequestParam, @RequestPart, @Param'
 description: 
 author: laze
 date: 2025-06-29 00:00:01 +0900

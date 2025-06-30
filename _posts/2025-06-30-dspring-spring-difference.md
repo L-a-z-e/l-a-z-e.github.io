@@ -1,5 +1,5 @@
 ---
-title: -Dspring.profiles.active <-> --spring.profiles.active
+title: 자바 Application 외부 설정 전달 방식에 따른 차이
 description: 
 author: laze
 date: 2025-06-30 00:00:02 +0900

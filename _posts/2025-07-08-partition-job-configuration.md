@@ -2,9 +2,9 @@
 title: Nullable 어노테이션의 목적과 IDE에서의 활용법
 description: 
 author: laze
-date: 2025-07-08 00:00:02 +0900
+date: 2025-07-08 00:00:01 +0900
 categories: [Dev, SpringBatch]
-tags: [SpringBatch]
+tags: [SpringBatch, Partition, ItemReader]
 ---
 # Spring Batch 파티셔닝 심층 분석: 불연속 데이터와 그룹핑 처리 문제 해결 가이드
 

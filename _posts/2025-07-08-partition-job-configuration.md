@@ -1,5 +1,5 @@
 ---
-title: Nullable 어노테이션의 목적과 IDE에서의 활용법
+title: Spring Batch 파티셔닝 불연속 데이터와 그룹핑 처리 문제 해결 가이드
 description: 
 author: laze
 date: 2025-07-08 00:00:01 +0900

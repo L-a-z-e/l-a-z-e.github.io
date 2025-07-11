@@ -3,8 +3,8 @@ title: JobRunner 충돌 (incrementer(), JobInstanceAlreadyCompleteException)
 description: 
 author: laze
 date: 2025-07-10 00:00:01 +0900
-categories: [Dev, IntelliJ]
-tags: [IDE, IntelliJ, Refactoring]
+categories: [Dev, SpringBatch]
+tags: [SpringBatch, JobRunner, incrementer]
 ---
 # [Spring Batch 심층 분석] 내가 만든 JobRunner가 실패하는 이유: `JobLauncherApplicationRunner`와의 충돌 해결하기
 

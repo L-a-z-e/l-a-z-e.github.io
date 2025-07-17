@@ -1,5 +1,5 @@
 ---
-title: @EntityListeners
+title: EntityListeners
 description: 
 author: laze
 date: 2025-07-17 00:00:01 +0900

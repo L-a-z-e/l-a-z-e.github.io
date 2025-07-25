@@ -2,7 +2,7 @@
 title: Spring Batch ORA-08177 완벽 해부 (원인과 해결책)
 description: 
 author: laze
-date: 2025-07-25 00:00:03 +0900
+date: 2025-07-25 00:00:04 +0900
 categories: [Dev, SpringBatch]
 tags: [SpringBatch, ExecutorType, Transaction]
 ---

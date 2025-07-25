@@ -26,18 +26,14 @@ Spring Webflux는 이러한 한계를 극복하기 위해 등장한, 완전히 �
 
 Spring 5부터, 개발자는 애플리케이션의 성격에 따라 두 가지 웹 스택 중 하나를 선택할 수 있게 되었습니다.
 
-| 구분 | **Servlet Stack (Spring MVC)** | **Reactive Stack (Spring Webflux)** |
-| --- | --- | --- |
-| **기반 모델** | Thread-per-Request (요청 당 스레드) | Event Loop (이벤트 루프) |
-| **핵심 서버** | **Tomcat**, Jetty (서블릿 컨테이너) | **Netty**, Undertow |
-| **I/O 모델** | **Blocking I/O** (동기-블로킹) | **Non-Blocking I/O** (비동기-논블로킹) |
-| **주요 의존성** | `spring-boot-starter-web` | `spring-boot-starter-webflux` |
-| **데이터 접근** | **JDBC, JPA** (Blocking) | **R2DBC**, Reactive Mongo/Redis (Non-Blocking) |
-| **적합한 상황** | - 대부분의 전통적인 웹 애플리케이션
-- **JPA 사용이 필수적인 경우**
-- 코드가 직관적이고 개발 속도가 중요할 때 | - **높은 동시성 처리**가 필요한 경우
-- 다수의 외부 API 호출 등 I/O 작업이 지배적일 때
-- 스트리밍, 실시간 통신 |
+| 구분 | **Servlet Stack (Spring MVC)**                                              | **Reactive Stack (Spring Webflux)**                                             |
+| --- |-----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **기반 모델** | Thread-per-Request (요청 당 스레드)                                               | Event Loop (이벤트 루프)                                                             |
+| **핵심 서버** | **Tomcat**, Jetty (서블릿 컨테이너)                                                | **Netty**, Undertow                                                             |
+| **I/O 모델** | **Blocking I/O** (동기-블로킹)                                                   | **Non-Blocking I/O** (비동기-논블로킹)                                                 |
+| **주요 의존성** | `spring-boot-starter-web`                                                   | `spring-boot-starter-webflux`                                                   |
+| **데이터 접근** | **JDBC, JPA** (Blocking)                                                    | **R2DBC**, Reactive Mongo/Redis (Non-Blocking)                                  |
+| **적합한 상황** | - 대부분의 전통적인 웹 애플리케이션 <br>- **JPA 사용이 필수적인 경우** <br>- 코드가 직관적이고 개발 속도가 중요할 때 | - **높은 동시성 처리**가 필요한 경우 <br>- 다수의 외부 API 호출 등 I/O 작업이 지배적일 때 <br>- 스트리밍, 실시간 통신 |
 
 두 스택은 **함께 사용할 수 없으며**, 프로젝트 시작 시 하나를 선택해야 합니다.
 

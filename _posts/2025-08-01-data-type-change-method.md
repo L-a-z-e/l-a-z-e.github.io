@@ -1,5 +1,5 @@
 ---
-title: `valueOf` vs `parseInt` vs `toString` - 헷갈리는 자료형 변환 메서드 완벽 정리
+title: valueOf vs parseInt vs toString - 헷갈리는 자료형 변환 메서드 완벽 정리
 description: 
 author: laze
 date: 2025-08-01 00:00:01 +0900
